@@ -1,16 +1,16 @@
 ### package lists
 
-chakra-ui
+#### chakra-ui - Chakra UI is a simple, modular and accessible component library
 https://chakra-ui.com/textarea
 
-formik
+#### formik - Build forms in React
 https://github.com/jaredpalmer/formik
 
-react-table
+#### react-table - Hooks for building fast and extendable tables and datagrids for React
 https://github.com/tannerlinsley/react-table
 
-google-map-react"
+#### google-map-react
 https://github.com/google-map-react/google-map-react
 
-Style props for rapid UI development
+#### styled-system - Style props for rapid UI development
 https://styled-system.com/demo/
